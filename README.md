@@ -6,7 +6,7 @@ Consists of basic sort algorithms implemented in ANSI C
   - Insertion Sort O(n^2)
   - Bubble Sort O(n^2)
   - Merge Sort O(nlogn)
-  - Quick Sort O(nlon) -> O(n^2)
+  - Quick Sort O(nlogn) -> O(n^2)
   - Randomised Quick Sort O(nlogn)
   
 ## Wave Sort
