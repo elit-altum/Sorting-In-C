@@ -1,7 +1,7 @@
 # Sorting-In-C
 Consists of basic sort algorithms implemented in ANSI C 
 
-##Comparison Based Sorts
+## Comparison Based Sorts
   - Selection Sort O(n^2)
   - Insertion Sort O(n^2)
   - Bubble Sort O(n^2)
@@ -9,5 +9,5 @@ Consists of basic sort algorithms implemented in ANSI C
   - Quick Sort O(nlon) -> O(n^2)
   - Randomised Quick Sort O(nlogn)
   
-##Wave Sort
+## Wave Sort
 Sorting technique which displays the numbers in a wave form, that is, alternating greater and smaller numbers.
